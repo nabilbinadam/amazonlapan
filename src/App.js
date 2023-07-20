@@ -10,7 +10,7 @@ import Home from "./Home";
 import Header from "./Header";
 import Checkout from "./Checkout";
 import Login from "./Login";
-import Layout from "./Layout";
+
 function App() {
   return (
     <div className="app">
